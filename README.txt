@@ -1,8 +1,9 @@
 plugin.video.tcm
 ================
 
-Kodi Addon for TCM website
+Kodi V2 Addon for TCM website
 
-version 1.0.2 website change
-version 1.0.1 initial release
+Version 2.0.3 website change
+Version 2.0.2 cleanup for release
+Version 2.0.1 initial release
 
